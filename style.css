@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(1, 215, 1);
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  border: solid;
+  border-radius: 50px;
+  background-color: black;
+  outline: 10px;
+  border-color: white;
+}
+.warcraft3 {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  border: solid;
+  border-radius: 50px;
+  background-color: black;
+  outline: 10px;
+  border-color: white;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.raceicons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.race_image_text {
+  display: flex;
+  justify-content: space-around;
+}
+
+.warcraft_text {
+  border: solid;
+  border-color: black;
+  background-color: rgb(181, 181, 181);
+}
+
+.warcraft3_gameplay {
+  display: flex;
+  justify-content: space-around;
+}
